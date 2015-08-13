@@ -1,0 +1,7 @@
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLibTests\bin\Debug\ReversiLibTests.dll
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLibTests\bin\Debug\ReversiLibTests.pdb
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLibTests\bin\Debug\ReversiLib.dll
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLibTests\bin\Debug\ReversiLib.pdb
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLibTests\obj\Debug\ReversiLibTests.csprojResolveAssemblyReference.cache
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLibTests\obj\Debug\ReversiLibTests.dll
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLibTests\obj\Debug\ReversiLibTests.pdb

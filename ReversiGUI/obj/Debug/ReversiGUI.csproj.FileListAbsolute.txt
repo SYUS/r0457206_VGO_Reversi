@@ -1,0 +1,17 @@
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\bin\Debug\ReversiGUI.exe.config
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\bin\Debug\ReversiGUI.exe
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\bin\Debug\ReversiGUI.pdb
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\bin\Debug\ReversiLib.dll
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\bin\Debug\ReversiLib.pdb
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\ReversiGUI.csprojResolveAssemblyReference.cache
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\MainWindow.baml
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\App.g.cs
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\ReversiGUI_MarkupCompile.cache
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\ReversiGUI.g.resources
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\ReversiGUI.Properties.Resources.resources
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\ReversiGUI.csproj.GenerateResource.Cache
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\ReversiGUI.exe
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\obj\Debug\ReversiGUI.pdb
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\bin\Debug\Resources\ReversiIco.png
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiGUI\bin\Debug\Resources\Everaldo-Crystal-Clear-App-reversi.ico

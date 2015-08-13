@@ -1,0 +1,4 @@
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLib\bin\Debug\ReversiLib.dll
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLib\bin\Debug\ReversiLib.pdb
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLib\obj\Debug\ReversiLib.dll
+C:\Users\Brecht\Source\Repos\reversi\Reversi\ReversiLib\obj\Debug\ReversiLib.pdb
